@@ -1,4 +1,4 @@
-####声明:感谢原创作者:xiaoyukarl (邮箱:xiaoyukarl@gmail.com),由于工作需要,真实对接了京东的这一系列口,也踩出一些坑并一一作了修改。在此基本上增加了几个新的接口，希望帮助到也需要对接jd接口的你
+声明:感谢原创作者:xiaoyukarl (邮箱:xiaoyukarl@gmail.com),由于工作需要,真实对接了京东的这一系列口,也踩出一些坑并一一作了修改。在此基本上增加了几个新的接口，希望帮助到也需要对接jd接口的你
 ####京东大客户开发平台VOP对接
 ##### 使用方法
 - 下载此包 `composer require xiaoyukarl/jd_biz`
