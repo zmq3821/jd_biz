@@ -1,0 +1,29 @@
+{
+    "name": "zhumengqiang/jd_biz",
+    "description": "大客户开放平台VOP接口对接",
+    "type": "library",
+    "keywords": [
+        "php",
+        "京东",
+        "大客户开发平台"
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require-dev": {
+
+    },
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "authors": [
+        {
+            "name": "zhumengqiang",
+            "email": "zmq3821@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jd\\biz\\": "src/"
+        }
+    }
+}
